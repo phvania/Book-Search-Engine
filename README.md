@@ -38,6 +38,7 @@ Apollo Server
 Heroku
 
 ## Screenshots:
+![Alt text](image.png)
 
 ## Deployed Link:
 
